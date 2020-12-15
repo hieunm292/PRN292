@@ -1,0 +1,10 @@
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex2\LAB6_Ex2\bin\Debug\LAB6_Ex2.exe.config
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex2\LAB6_Ex2\bin\Debug\LAB6_Ex2.exe
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex2\LAB6_Ex2\bin\Debug\LAB6_Ex2.pdb
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex2\LAB6_Ex2\obj\Debug\LAB6_Ex2.csprojAssemblyReference.cache
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex2\LAB6_Ex2\obj\Debug\LAB6_Ex2.Form1.resources
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex2\LAB6_Ex2\obj\Debug\LAB6_Ex2.Properties.Resources.resources
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex2\LAB6_Ex2\obj\Debug\LAB6_Ex2.csproj.GenerateResource.cache
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex2\LAB6_Ex2\obj\Debug\LAB6_Ex2.csproj.CoreCompileInputs.cache
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex2\LAB6_Ex2\obj\Debug\LAB6_Ex2.exe
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex2\LAB6_Ex2\obj\Debug\LAB6_Ex2.pdb

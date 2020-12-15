@@ -1,0 +1,10 @@
+C:\Users\VHIT\Google Drive\CODE_C#\Lab5_Lamthem\Lab5_Lamthem_Baitap1\bin\Debug\Lab5_Lamthem_Baitap1.exe.config
+C:\Users\VHIT\Google Drive\CODE_C#\Lab5_Lamthem\Lab5_Lamthem_Baitap1\bin\Debug\Lab5_Lamthem_Baitap1.exe
+C:\Users\VHIT\Google Drive\CODE_C#\Lab5_Lamthem\Lab5_Lamthem_Baitap1\bin\Debug\Lab5_Lamthem_Baitap1.pdb
+C:\Users\VHIT\Google Drive\CODE_C#\Lab5_Lamthem\Lab5_Lamthem_Baitap1\obj\Debug\Lab5_Lamthem_Baitap1.csprojAssemblyReference.cache
+C:\Users\VHIT\Google Drive\CODE_C#\Lab5_Lamthem\Lab5_Lamthem_Baitap1\obj\Debug\Lab5_Lamthem_Baitap1.Form1.resources
+C:\Users\VHIT\Google Drive\CODE_C#\Lab5_Lamthem\Lab5_Lamthem_Baitap1\obj\Debug\Lab5_Lamthem_Baitap1.Properties.Resources.resources
+C:\Users\VHIT\Google Drive\CODE_C#\Lab5_Lamthem\Lab5_Lamthem_Baitap1\obj\Debug\Lab5_Lamthem_Baitap1.csproj.GenerateResource.cache
+C:\Users\VHIT\Google Drive\CODE_C#\Lab5_Lamthem\Lab5_Lamthem_Baitap1\obj\Debug\Lab5_Lamthem_Baitap1.csproj.CoreCompileInputs.cache
+C:\Users\VHIT\Google Drive\CODE_C#\Lab5_Lamthem\Lab5_Lamthem_Baitap1\obj\Debug\Lab5_Lamthem_Baitap1.exe
+C:\Users\VHIT\Google Drive\CODE_C#\Lab5_Lamthem\Lab5_Lamthem_Baitap1\obj\Debug\Lab5_Lamthem_Baitap1.pdb

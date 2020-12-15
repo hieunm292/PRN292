@@ -1,0 +1,10 @@
+F:\Document\COUSES\SE5\PRN292\Assignment\LabMore\Answer\Lab03\SolutionFolder\Ex3\bin\Debug\Ex3.exe.config
+F:\Document\COUSES\SE5\PRN292\Assignment\LabMore\Answer\Lab03\SolutionFolder\Ex3\bin\Debug\Ex3.exe
+F:\Document\COUSES\SE5\PRN292\Assignment\LabMore\Answer\Lab03\SolutionFolder\Ex3\bin\Debug\Ex3.pdb
+F:\Document\COUSES\SE5\PRN292\Assignment\LabMore\Answer\Lab03\SolutionFolder\Ex3\obj\Debug\Ex3.csprojAssemblyReference.cache
+F:\Document\COUSES\SE5\PRN292\Assignment\LabMore\Answer\Lab03\SolutionFolder\Ex3\obj\Debug\Ex3.Form1.resources
+F:\Document\COUSES\SE5\PRN292\Assignment\LabMore\Answer\Lab03\SolutionFolder\Ex3\obj\Debug\Ex3.Properties.Resources.resources
+F:\Document\COUSES\SE5\PRN292\Assignment\LabMore\Answer\Lab03\SolutionFolder\Ex3\obj\Debug\Ex3.csproj.GenerateResource.cache
+F:\Document\COUSES\SE5\PRN292\Assignment\LabMore\Answer\Lab03\SolutionFolder\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+F:\Document\COUSES\SE5\PRN292\Assignment\LabMore\Answer\Lab03\SolutionFolder\Ex3\obj\Debug\Ex3.exe
+F:\Document\COUSES\SE5\PRN292\Assignment\LabMore\Answer\Lab03\SolutionFolder\Ex3\obj\Debug\Ex3.pdb

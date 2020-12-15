@@ -1,0 +1,20 @@
+D:\SoftwareEngineering_Semester05\PRN292\Labs\Lab 4\Northwind\bin\Debug\Northwind.exe.config
+D:\SoftwareEngineering_Semester05\PRN292\Labs\Lab 4\Northwind\bin\Debug\Northwind.exe
+D:\SoftwareEngineering_Semester05\PRN292\Labs\Lab 4\Northwind\bin\Debug\Northwind.pdb
+D:\SoftwareEngineering_Semester05\PRN292\Labs\Lab 4\Northwind\obj\Debug\Northwind.csprojAssemblyReference.cache
+D:\SoftwareEngineering_Semester05\PRN292\Labs\Lab 4\Northwind\obj\Debug\Northwind.Form1.resources
+D:\SoftwareEngineering_Semester05\PRN292\Labs\Lab 4\Northwind\obj\Debug\Northwind.Properties.Resources.resources
+D:\SoftwareEngineering_Semester05\PRN292\Labs\Lab 4\Northwind\obj\Debug\Northwind.csproj.GenerateResource.cache
+D:\SoftwareEngineering_Semester05\PRN292\Labs\Lab 4\Northwind\obj\Debug\Northwind.csproj.CoreCompileInputs.cache
+D:\SoftwareEngineering_Semester05\PRN292\Labs\Lab 4\Northwind\obj\Debug\Northwind.exe
+D:\SoftwareEngineering_Semester05\PRN292\Labs\Lab 4\Northwind\obj\Debug\Northwind.pdb
+C:\Users\ADMIN\Downloads\Northwind\Northwind\bin\Debug\Northwind.exe.config
+C:\Users\ADMIN\Downloads\Northwind\Northwind\bin\Debug\Northwind.exe
+C:\Users\ADMIN\Downloads\Northwind\Northwind\bin\Debug\Northwind.pdb
+C:\Users\ADMIN\Downloads\Northwind\Northwind\obj\Debug\Northwind.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Northwind\Northwind\obj\Debug\Northwind.Form1.resources
+C:\Users\ADMIN\Downloads\Northwind\Northwind\obj\Debug\Northwind.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Northwind\Northwind\obj\Debug\Northwind.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Northwind\Northwind\obj\Debug\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Northwind\Northwind\obj\Debug\Northwind.exe
+C:\Users\ADMIN\Downloads\Northwind\Northwind\obj\Debug\Northwind.pdb

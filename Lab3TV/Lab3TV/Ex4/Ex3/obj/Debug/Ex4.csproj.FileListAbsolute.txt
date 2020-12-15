@@ -1,0 +1,10 @@
+C:\Users\DUC TRAN\Downloads\DE140094_SE1401-Lab01\SolutionFolder\Ex3\bin\Debug\Ex3.exe.config
+C:\Users\DUC TRAN\Downloads\DE140094_SE1401-Lab01\SolutionFolder\Ex3\bin\Debug\Ex3.exe
+C:\Users\DUC TRAN\Downloads\DE140094_SE1401-Lab01\SolutionFolder\Ex3\bin\Debug\Ex3.pdb
+C:\Users\DUC TRAN\Downloads\DE140094_SE1401-Lab01\SolutionFolder\Ex3\obj\Debug\Ex4.csprojAssemblyReference.cache
+C:\Users\DUC TRAN\Downloads\DE140094_SE1401-Lab01\SolutionFolder\Ex3\obj\Debug\Ex3.Form1.resources
+C:\Users\DUC TRAN\Downloads\DE140094_SE1401-Lab01\SolutionFolder\Ex3\obj\Debug\Ex3.Properties.Resources.resources
+C:\Users\DUC TRAN\Downloads\DE140094_SE1401-Lab01\SolutionFolder\Ex3\obj\Debug\Ex4.csproj.GenerateResource.cache
+C:\Users\DUC TRAN\Downloads\DE140094_SE1401-Lab01\SolutionFolder\Ex3\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\DUC TRAN\Downloads\DE140094_SE1401-Lab01\SolutionFolder\Ex3\obj\Debug\Ex3.exe
+C:\Users\DUC TRAN\Downloads\DE140094_SE1401-Lab01\SolutionFolder\Ex3\obj\Debug\Ex3.pdb

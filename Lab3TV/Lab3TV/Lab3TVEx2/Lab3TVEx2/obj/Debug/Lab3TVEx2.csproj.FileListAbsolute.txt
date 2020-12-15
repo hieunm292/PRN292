@@ -1,0 +1,10 @@
+C:\Users\DUC TRAN\source\repos\Lab3TVEx2\Lab3TVEx2\bin\Debug\Lab3TVEx2.exe.config
+C:\Users\DUC TRAN\source\repos\Lab3TVEx2\Lab3TVEx2\bin\Debug\Lab3TVEx2.exe
+C:\Users\DUC TRAN\source\repos\Lab3TVEx2\Lab3TVEx2\bin\Debug\Lab3TVEx2.pdb
+C:\Users\DUC TRAN\source\repos\Lab3TVEx2\Lab3TVEx2\obj\Debug\Lab3TVEx2.csprojAssemblyReference.cache
+C:\Users\DUC TRAN\source\repos\Lab3TVEx2\Lab3TVEx2\obj\Debug\Lab3TVEx2.Form1.resources
+C:\Users\DUC TRAN\source\repos\Lab3TVEx2\Lab3TVEx2\obj\Debug\Lab3TVEx2.Properties.Resources.resources
+C:\Users\DUC TRAN\source\repos\Lab3TVEx2\Lab3TVEx2\obj\Debug\Lab3TVEx2.csproj.GenerateResource.cache
+C:\Users\DUC TRAN\source\repos\Lab3TVEx2\Lab3TVEx2\obj\Debug\Lab3TVEx2.csproj.CoreCompileInputs.cache
+C:\Users\DUC TRAN\source\repos\Lab3TVEx2\Lab3TVEx2\obj\Debug\Lab3TVEx2.exe
+C:\Users\DUC TRAN\source\repos\Lab3TVEx2\Lab3TVEx2\obj\Debug\Lab3TVEx2.pdb

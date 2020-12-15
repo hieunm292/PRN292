@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\obj\Debug\netcoreapp3.1\Lab2TVEx3.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\obj\Debug\netcoreapp3.1\Lab2TVEx3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\obj\Debug\netcoreapp3.1\Lab2TVEx3.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\obj\Debug\netcoreapp3.1\Lab2TVEx3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\bin\Debug\netcoreapp3.1\Lab2TVEx3.exe
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\bin\Debug\netcoreapp3.1\Lab2TVEx3.deps.json
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\bin\Debug\netcoreapp3.1\Lab2TVEx3.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\bin\Debug\netcoreapp3.1\Lab2TVEx3.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\bin\Debug\netcoreapp3.1\Lab2TVEx3.dll
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\bin\Debug\netcoreapp3.1\Lab2TVEx3.pdb
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\obj\Debug\netcoreapp3.1\Lab2TVEx3.dll
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\obj\Debug\netcoreapp3.1\Lab2TVEx3.pdb
+C:\Users\ADMIN\source\repos\Lab2TVEx3\Lab2TVEx3\obj\Debug\netcoreapp3.1\Lab2TVEx3.genruntimeconfig.cache

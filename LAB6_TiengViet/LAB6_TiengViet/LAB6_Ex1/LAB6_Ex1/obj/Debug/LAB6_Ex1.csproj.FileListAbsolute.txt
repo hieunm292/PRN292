@@ -1,0 +1,15 @@
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\bin\Debug\LAB6_Ex1.exe.config
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\bin\Debug\LAB6_Ex1.exe
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\bin\Debug\LAB6_Ex1.pdb
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\bin\Debug\Interop.WMPLib.dll
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\bin\Debug\AxInterop.WMPLib.dll
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\obj\Debug\LAB6_Ex1.csprojAssemblyReference.cache
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\obj\Debug\Interop.WMPLib.dll
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\obj\Debug\AxInterop.WMPLib.dll
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\obj\Debug\LAB6_Ex1.csproj.ResolveComReference.cache
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\obj\Debug\LAB6_Ex1.Form1.resources
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\obj\Debug\LAB6_Ex1.Properties.Resources.resources
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\obj\Debug\LAB6_Ex1.csproj.GenerateResource.cache
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\obj\Debug\LAB6_Ex1.csproj.CoreCompileInputs.cache
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\obj\Debug\LAB6_Ex1.exe
+D:\ChuyenNghanh5\ChuyenNganh5\PRN292\LAB6_TiengViet\LAB6_Ex1\LAB6_Ex1\obj\Debug\LAB6_Ex1.pdb

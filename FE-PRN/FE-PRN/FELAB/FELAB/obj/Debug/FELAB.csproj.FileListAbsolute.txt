@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\FELAB\FELAB\bin\Debug\FELAB.exe.config
+C:\Users\ADMIN\source\repos\FELAB\FELAB\bin\Debug\FELAB.exe
+C:\Users\ADMIN\source\repos\FELAB\FELAB\bin\Debug\FELAB.pdb
+C:\Users\ADMIN\source\repos\FELAB\FELAB\obj\Debug\FELAB.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\FELAB\FELAB\obj\Debug\FELAB.Form1.resources
+C:\Users\ADMIN\source\repos\FELAB\FELAB\obj\Debug\FELAB.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\FELAB\FELAB\obj\Debug\FELAB.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\FELAB\FELAB\obj\Debug\FELAB.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FELAB\FELAB\obj\Debug\FELAB.exe
+C:\Users\ADMIN\source\repos\FELAB\FELAB\obj\Debug\FELAB.pdb
